@@ -29,6 +29,7 @@ with open(str(Filename+'.txt'), "w") as TextOut:
 	TextOut.write('Replace Rect 0(0) {} {}\n'.format(SubF, SubF))
 	TextOut.write('Sequence Offset X LSW 0\n')
 	TextOut.write('Sequence Offset Y LSW 0\n')
+    
 	
 	
 if Feature == "Dots":
@@ -42,11 +43,19 @@ if Feature == "Dots":
     with open(str(Filename+'.txt'), "a") as TextOut:
         for XX in np.arange(XC):        
             for YY in np.arange(YC): 
+                if XX + YY == 0: # if first time
+                    TextOut.write('sequence lineclear X 1 reljmp \n')
+                else:
+                    if YY % 2 == 0: # go right
+                        TextOut.write('sequence line X 1 reljmp \n')
+                    if YY % 2 == 1: #go left
+                        TextOut.write('sequence line X -1 reljmp \n')
                 if XX % 2 == 0: # go up
-                    TextOut.write('sequence jump 0 {} reljmp \n'.format(DyW))
+                    TextOut.write('sequence jump 0 {} \n'.format(DyW))
                 else : #go down
-                    TextOut.write('sequence jump 0 {} reljmp \n'.format(-DyW))
-            TextOut.write('sequence jump {} {} reljmp \n'.format(DxW, DyW-DxW))
+                    TextOut.write('sequence jump 0 {} \n'.format(-DyW))
+            # if we are at the end of a column how do we jump to the next one?
+            TextOut.write('sequence jump {} {} \n'.format(DxW, DyW-DxW))
     
     
 if Feature == "Lines":
@@ -61,7 +70,10 @@ if Feature == "Lines":
             for YY in np.arange(YC): 
                 
                 if YY % 2 ==0: # go right
-                    TextOut.write('\nsequence line X {}'.format(WidW))
+                    if YY + XX == 0: # if first time
+                        TextOut.write('\nsequence lineclear X {}'.format(WidW))
+                    else: # go right
+                        TextOut.write('\nsequence line X {}'.format(WidW))
                 else: # or go left and then...
                     TextOut.write('\nsequence line X {}'.format(-WidW))
                 if XX % 2 == 0: # go up or
