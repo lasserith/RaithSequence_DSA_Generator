@@ -7,12 +7,12 @@ Created on Sat Feb 17 21:36:48 2018
 
 import numpy as np
 
-Filename = "Test"
-BeamSS = 5 # beam step size nanometer
+Filename = "150nmSQDots45um"
+BeamSS = 50 # beam step size nanometer
 SubRes = 0.5 # subfield res in nanometer
 SubF = 4.5 # subfield size in microns
 
-Feature = "Lines"
+Feature = "Dots"
 
 #Feature = "Dots"
 Dx = 150 # nanometers 
@@ -21,6 +21,16 @@ Dy = 150 # nanometers
 Width = 20 #nanometer
 Pitch = 100 #nanometer
 
+
+with open(str(Filename+'.txt'), "w") as TextOut:
+	TextOut.write('BEAMER_GPF_Sequence_Definition\n\n')
+	TextOut.write('SubFieldResolution {}\n'.format(SubRes/1000))
+	TextOut.write('BeamStepSize {}\n\n'.format(SubRes/1000))
+	TextOut.write('Replace Rect 0(0) {} {}\n'.format(SubF, SubF))
+	TextOut.write('Sequence Offset X LSW 0\n')
+	TextOut.write('Sequence Offset Y LSW 0\n')
+	
+	
 if Feature == "Dots":
     DxW = int(Dx/SubRes) # calculate in units of subfield res
     DyW = int(Dy/SubRes) # calculate in units of subfield res
@@ -29,7 +39,7 @@ if Feature == "Dots":
     
     XC = int(SubF*1000/Dx) # how many to fit in x
     YC = int(SubF*1000/Dy) # how many to fit in y
-    with open(str(Filename+'.txt'), "w") as TextOut:
+    with open(str(Filename+'.txt'), "a") as TextOut:
         for XX in np.arange(XC):        
             for YY in np.arange(YC): 
                 if XX % 2 == 0: # go up
@@ -46,7 +56,7 @@ if Feature == "Lines":
     
     XC = int(SubF*1000/Pitch) # how many lines
     YC = int(SubF*1000/BeamSS) # how many spots to go up
-    with open(str(Filename+'.txt'), "w") as TextOut:
+    with open(str(Filename+'.txt'), "a") as TextOut:
         for XX in np.arange(XC):        
             for YY in np.arange(YC): 
                 
