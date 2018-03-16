@@ -1,0 +1,1868 @@
+BEAMER_GPF_Sequence_Definition
+
+SubFieldResolution 0.0005
+BeamStepSize 0.0005
+
+Replace Rect 0(0) 4.5 4.5
+Sequence Offset X LSW 0
+Sequence Offset Y LSW 0
+sequence lineclear X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 0 300 
+sequence line X 0 reljmp 
+sequence jump 300 0 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 0 -300 
+sequence line X 0 reljmp 
+sequence jump 300 0 

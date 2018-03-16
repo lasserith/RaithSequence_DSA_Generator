@@ -2,7 +2,7 @@
 """
 Created on Sat Feb 17 21:36:48 2018
 
-@author: emosh
+@author: Moshe Dolejsi (@uchicago.edu)
 """
 
 import numpy as np
@@ -44,17 +44,15 @@ if Feature == "Dots":
         for XX in np.arange(XC):        
             for YY in np.arange(YC): 
                 if XX + YY == 0: # if first time
-                    TextOut.write('sequence lineclear X 1 reljmp \n')
+                    TextOut.write('sequence lineclear X 0 reljmp \n')
                 else:
-                    if YY % 2 == 0: # go right
-                        TextOut.write('sequence line X 1 reljmp \n')
-                    if YY % 2 == 1: #go left
-                        TextOut.write('sequence line X -1 reljmp \n')
+                    TextOut.write('sequence line X 0 reljmp \n')
                 if XX % 2 == 0: # go up
                     TextOut.write('sequence jump 0 {} \n'.format(DyW))
                 else : #go down
                     TextOut.write('sequence jump 0 {} \n'.format(-DyW))
             # if we are at the end of a column how do we jump to the next one?
+            TextOut.write('sequence line X 0 reljmp \n')
             TextOut.write('sequence jump {} {} \n'.format(DxW, DyW-DxW))
     
     
