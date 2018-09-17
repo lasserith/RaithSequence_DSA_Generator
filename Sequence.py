@@ -25,7 +25,7 @@ Pitch = 100 #nanometer
 with open(str(Filename+'.txt'), "w") as TextOut:
 	TextOut.write('BEAMER_GPF_Sequence_Definition\n\n')
 	TextOut.write('SubFieldResolution {}\n'.format(SubRes/1000))
-	TextOut.write('BeamStepSize {}\n\n'.format(SubRes/1000))
+	TextOut.write('BeamStepSize {}\n\n'.format(BeamSS/1000))
 	TextOut.write('Replace Rect 0(0) {} {}\n'.format(SubF, SubF))
 	TextOut.write('Sequence Offset X LSW 0\n')
 	TextOut.write('Sequence Offset Y LSW 0\n')
@@ -40,6 +40,9 @@ if Feature == "Dots":
     
     XC = int(SubF*1000/Dx) # how many to fit in x
     YC = int(SubF*1000/Dy) # how many to fit in y
+    #XC -= 1  # not needed
+    YC -= 1 # SUBTRACT 1 to make tiling work
+    
     with open(str(Filename+'.txt'), "a") as TextOut:
         for XX in np.arange(XC):        
             for YY in np.arange(YC): 
@@ -52,11 +55,12 @@ if Feature == "Dots":
                 else : #go down
                     TextOut.write('sequence jump 0 {} \n'.format(-DyW))
             # if we are at the end of a column how do we jump to the next one?
-            TextOut.write('sequence line X 0 reljmp \n')
-            TextOut.write('sequence jump {} {} \n'.format(DxW, DyW-DxW))
+            if XX != XC - 1:
+                TextOut.write('sequence line X 0 reljmp \n')
+                TextOut.write('sequence jump {} {} \n'.format(DxW, DyW-DxW))
     
     
-if Feature == "Lines":
+if Feature == "Lines": # not tested yet
 
     WidW = int(Width/BeamSS)
     PitW = int(Pitch/SubRes)
@@ -79,7 +83,8 @@ if Feature == "Lines":
                 else : #go down
                     TextOut.write('\nsequence line Y -1')
             # now at the top so lets jump to the right
-            TextOut.write(' reljmp \nsequence jump {} 0'.format(PitW))
+            if XX != XC:
+                TextOut.write(' reljmp \nsequence jump {} 0'.format(PitW))
     
     
     
