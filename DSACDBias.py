@@ -8,20 +8,20 @@ Created on Fri Sep 14 07:24:05 2018
 import numpy as np
 import datetime
 #%
-Filename = datetime.datetime.now().strftime("%Y_%m%d_mdolejsi_BBrush_DSACDBias")
+Filename = datetime.datetime.now().strftime("%Y_%m%d_mdolejsi_MGA")
 #%% FIeld dimensions/spacing
 ArH = 50*1e3 # height of field (microns)
 ArW = 50*1e3 #width of field
 ArSpace = 200*1e3 # spacing between fields
 
 #%% set the pitch range
-BPArray = np.arange(82,102,2) #72-92
-#BPArray = np.array([60, 70, 76, 78, 80, 82, 84, 86, 88, 90])
+#BPArray = np.arange(82,102,2) #72-92
+BPArray = np.array([88, 90, 92, 94, 96, 98])
 
-CDSet = 8 # if 0 autocalc it else set constant base CD
+CDSet = 14 # if 0 autocalc it else set constant base CD
 
 #Layer Bias (for rows if you want dose bias instead of CD bias)
-LB = 0
+LB = 1
 NumRow = 6
 
 if LB == 0: # do CD bias if LB = 0, so ad or substract from CD in rows
